@@ -1,0 +1,48 @@
+										
+										CHANGELOG
+
+
+
+
+14/02/2013 : Création du projet Kassbrik, recherches internet pour se
+familiariser avec Pygame, le module de Python qui nous permettra de former
+notre jeu, et distribution
+travail
+
+21/02/2013 : Images de bases créees (raquette, balle, fond d'écran), ouverture
+et fermeture de la fenêtre de jeu et affichage des images sur la fenêtre de
+jeu
+
+07/03/2013 : Mouvement d'un objet sur un fond, la raquette peut désormais se
+déplacer
+
+14/03/2013 : Nous avons aujourd'hui réussi à placer la raquette en bas de
+l'écran dès l'ouverture du jeu. Elle se déplace de gauche à droite et ne sort
+pas de l'écran. L'image de la balle ne fonctionne pas, une nouvelle a donc été
+créée.
+
+15/03/2013 : La balle s'affiche et bouge uniquement vers le bas
+sans rebondir nul part.
+
+28/03/2013 : Aujourd'hui, la balle rebondit sur la raquette. Si elle touche
+les bouts de la raquette, son angle en rebondissant sera plus conséquent que
+si elle touche la raquette en son milieu. De plus la balle rebondit sur les
+parois de la fenêtre d'après la loi de Descartes c'est-à-dire que l'angle avec
+lequel elle frappe la paroi sera le même après le rebond.
+
+04/04/2013 : Nous avons mis en commun les programmes concernant la
+collision-disparition des briques et concernant les rebonds de la balle sur
+les parois et sur la raquette. Désormais, lorsque le joueur perd la balle,
+"GAMEOVER" s'affiche à l'écran.
+
+25/04/2013 : Nous avons pofiné notre programme pour une meilleure lisibilité
+et nous avons fini d'écrire les lignes de code pour détruire les briques
+lorsque la balle touche un de leurs côtés. Cependant quelques bugs persistent
+car la raquette sort de l'écran et la balle passe à travers certaines briques.
+
+02/05/2013 : Le programme a été entièrement débugué et à nouveau pofiné,
+nous envisageons pour le prochain et dernier cours de créer une fonction
+permettant de gagner puisque qu'à l'heure actuelle il est impossible de
+gagner, le jeu ne s'arrêtant pas lorsque toutes les briques ont disparu.
+
+02/05/2013 : 

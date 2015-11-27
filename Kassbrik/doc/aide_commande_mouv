@@ -1,0 +1,13 @@
+
+
+
+hspeed //La vitesse horizontale, en pixels/step
+vspeed //La vitesse verticale, en pixels/step
+direction// La direction du mouvement du personnage en degrés, 0 étant vers la droite
+id // vous devez savoir ce que c est :fleche_droite
+sprite_index // le nom de la sprite en cour
+speed // La vitesse en pixels/steps
+visible // si l’objet est visible:1 ou non:0
+solid // si l’objet est solide:1 ou non:0
+image_anglé/La rotation de l image (seulement version enregistrée)
+image_alphà/La transparence (seulement version enregistrée)

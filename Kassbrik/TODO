@@ -1,0 +1,26 @@
+Nicolas se charge de trouver le code pour empêcher la raquette de sortir de l'écran.
+
+Mélody essaye de mettre sous forme de code, la vitesse vx de la balle et les rebonds. 
+
+PROF : la bande son, n'est pas indispensable au jeu. Reconcentrez vous sur l'essentiel.
+- réussir à deplacer la raquette avec deux touches
+- faire rebondir la balle sur les bords
+- vous pouvez également travailler sur un algorithme permettant de décrire la position des briques a partir d'un tableau de nombre, on en reparle ensemble.
+
+PROF : tenez votre Changelog à jour
+
+PROF : déplacer vos tests dans le bac à sable pour ne laisser dans src que le vrai projet
+
+PROF : vos programme sont debuggués, vous pouvez avancer sur des bases saines.
+
+
+La balle rebondit sur la raquette avec un angle différent selon le lieu de la collision et rebondit sur les parois de la fenêtre.
+
+Mélody se charge de postionner les briques (cf explication prof)
+
+
+Le débug des programmes a pris beaucoup de temps aujourd'hui cependant :
+Mélody établit les lignes de code permettant d'exploser les briques peu importe où on la touche
+Nicolas et Clément se charge de relancer la jeu après un GAMEOVER en appuyant sur ENTER
+
+Nous avons débugué et pofiné le programme, il ne nous reste plus qu'à définir une fonction permettant au joueur de gagner.
