@@ -1,0 +1,93 @@
+
+
+										########################
+										##					          ##
+										##	  	KASSBRIK      ##
+										##                    ##
+										########################
+
+
+
+
+
+
+
+
+
+	Kassbrik est une modeste version du célèbre jeu du Casse-briques. Ce projet a était réaliser dans le cadre de la spécialité scientifique ISN au LycÃ©e Balzac. Il est l'aboutissement d'une annÃ©e de spÃ©cialitÃ© pour notre groupe composÃ© de 3 personnes. Nous avons unifiÃ© nos connaissances afin de pouvoir monter ce projet. 
+
+	Kassbrik est un programme écrit pour fonctionner avec Python 2.7.3 et son module Pygame. 
+
+	Les graphismes, minimalistes, ont Ã©tÃ© rÃ©alisÃ©s avec GIMP.
+
+
+
+##########################
+##                      ##
+##    MATERIEL REQUIS   ##
+##                      ##
+##########################
+
+	- SystÃ¨me d'exploitation : UBUNTU 
+
+	- Installer Python 2.7.3 sur le terminal
+
+		1)	TÃ©lÃ©charger Python 2.7.3 pour Ubuntu 
+		2)	Depuis le terminal, rejoindre le dossier Python2.7.3
+		3)	Entrer "./configure" dans le terminal
+		4) 	Entrer "make" dans le terminal
+		5)	Enfin, entrer "sudo make install" dans le terminal
+
+				Python est installÃ©
+	
+	- Installer le module Pygame pour Python 2.7.3 en entrant dans le terminal "sudo apt-get install python-pygame" 
+
+
+##########################
+##		                ##
+##   LANCEMENT DU JEU   ##
+##		                ##
+##########################
+  
+  1)	Depuis le terminal, rejoindre le dossier contenant Kassbrik.py
+  
+  2)	Puis entrer "python Kassbrik.py" dans le terminal
+
+	
+		Le jeu est lancÃ©
+
+##########################
+##                      ##
+##       COMMANDES      ##
+##                      ##
+##########################
+
+	Pour dÃ©placer la raquette vers la gauche  : presser le bouton GAUCHE du clavier
+
+	Pour dÃ©placer la raquette vers la droite : presser le bouton DROITE du clavier
+
+	Pour rÃ©demarrer une partie lors de l'affichage de GAME OVER : presser le bouton ESPACE du clavier
+
+	Pour quitter le jeu : cliquer sur la CROIX ROUGE de la fenÃªtre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
